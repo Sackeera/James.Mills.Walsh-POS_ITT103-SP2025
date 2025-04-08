@@ -1,5 +1,5 @@
 Authors: Sackeera Mills, Tahzai James, Tajay Walsh
-Date Created: March 21, 2025
+Date Created: March 19, 2025
 Course: ITT103 Programming Techniques
 GitHub Public URL to Code: https://github.com/Sackeera/James.Mills.Walsh-POS_ITT103-SP2025 
 PY WIZARDS POS SYSTEM IMPLEMENTATION
